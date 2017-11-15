@@ -1,3 +1,8 @@
+/*
+Sorting can be through Points , Groups, Last Activity
+*/
+
+
 import React, { Component } from "react";
 import axios from "axios";
 import FontAwesome from "react-fontawesome";
